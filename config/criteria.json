@@ -1,0 +1,69 @@
+{
+  "min_fit_score": 65,
+  "auto_apply_threshold": 75,
+
+  "excluded_disciplines": [
+    "médico", "medicina", "enfermería", "psicología", "odontología",
+    "abogado", "derecho", "jurídico", "notarial",
+    "contador", "contabilidad", "auditoría", "impuestos",
+    "arquitecto", "arquitectura", "construcción",
+    "mecánico", "automotriz", "soldador",
+    "electricista", "plomero",
+    "diseñador gráfico", "diseñador industrial",
+    "marketing", "publicidad", "community manager",
+    "vendedor", "ventas", "comercial externo",
+    "gerente", "director", "jefe de área",
+    "senior", "semi-senior", "sr.", "ssr.",
+    "lead", "tech lead", "arquitecto de software",
+    "chef", "cocinero", "gastronomía",
+    "operario", "producción industrial", "manufactura"
+  ],
+
+  "experience_requirements": {
+    "max_years_required": 1,
+    "acceptable_levels": [
+      "sin experiencia", "estudiante", "pasantía", "pasante",
+      "trainee", "junior", "jr", "primer empleo",
+      "recién graduado", "0 a 1 año", "0-1 año", "hasta 1 año"
+    ],
+    "reject_if_contains": [
+      "2 años de experiencia", "3 años", "4 años", "5 años",
+      "+2 años", "+3 años", "mínimo 2 años",
+      "semi-senior", "ssr.", "senior", "sr."
+    ]
+  },
+
+  "preferred_keywords": [
+    "python", "javascript", "typescript", "sql", "git", "html", "css",
+    "react", "node", "fastapi", "rest", "api", "backend", "frontend",
+    "full stack", "base de datos", "testing", "qa", "soporte", "help desk",
+    "analista", "trainee", "pasantía", "junior", "primer empleo",
+    "sistemas", "informática", "tecnología", "it", "tech"
+  ],
+
+  "location_filter": {
+    "accept_remote": true,
+    "accept_hybrid": true,
+    "accept_onsite": true,
+    "max_commute_area": "CABA y Zona Norte de GBA (hasta Pilar)",
+    "accepted_zones": [
+      "CABA", "Capital Federal", "Ciudad Autónoma de Buenos Aires",
+      "Zona Norte", "Vicente López", "Olivos", "San Isidro", "Martínez",
+      "San Fernando", "Tigre", "Pacheco", "Nordelta", "Pilar", "Del Viso",
+      "Escobar", "San Martín", "Villa Ballester", "Remoto", "Remote"
+    ],
+    "rejected_zones": [
+      "La Plata", "Quilmes", "Bernal", "Berazategui", "Florencio Varela",
+      "Lanús", "Avellaneda", "Lomas de Zamora", "Banfield", "Temperley",
+      "Adrogué", "Almirante Brown", "Ezeiza", "Zona Sur",
+      "Morón", "Castelar", "Ituzaingó", "Merlo", "Moreno", "San Justo",
+      "Ramos Mejía", "La Matanza", "Zona Oeste",
+      "Córdoba", "Rosario", "Mendoza", "Santa Fe", "Tucumán", "Salta", "Mar del Plata"
+    ],
+    "reject_outside_argentina": false
+  },
+
+  "max_applications_per_run": 20,
+  "delay_between_applications_seconds": [20, 45],
+  "skip_already_applied": true
+}

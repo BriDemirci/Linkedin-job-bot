@@ -1,0 +1,90 @@
+{
+  "location": "Buenos Aires, Argentina",
+  "date_posted": "any_time",
+  "easy_apply_only": true,
+  "schedule": "part-time",
+  "max_results_per_query": 40,
+
+  "queries": [
+    "Desarrollador Junior",
+    "Developer Junior",
+    "Junior Developer",
+    "Programador Junior",
+    "Programador Web Junior",
+
+    "Python Junior",
+    "Python Developer Junior",
+    "Python Backend Junior",
+
+    "JavaScript Junior",
+    "JavaScript Developer Junior",
+    "TypeScript Junior",
+    "Node.js Junior",
+    "React Junior",
+
+    "Backend Junior",
+    "Frontend Junior",
+    "Full Stack Junior",
+    "Desarrollador Web Junior",
+    "Web Developer Junior",
+
+    "Pasantía IT",
+    "Pasantía Sistemas",
+    "Pasantía Tecnología",
+    "Pasantía Informática",
+    "Pasantía Desarrollo",
+    "Pasantía Developer",
+    "Pasantía Programación",
+    "Pasantía Software",
+    "Pasantía USAL",
+    "Pasantía universitaria tecnología",
+
+    "Trainee IT",
+    "Trainee Tecnología",
+    "Trainee Sistemas",
+    "Trainee Developer",
+    "Trainee Programador",
+    "Trainee Software",
+
+    "QA Junior",
+    "Testing Junior",
+    "QA Tester Junior",
+    "Analista QA Junior",
+    "Analista Testing Junior",
+
+    "Soporte Técnico",
+    "Soporte Técnico IT",
+    "Soporte Informático",
+    "Help Desk",
+    "Mesa de Ayuda",
+    "IT Support Junior",
+    "Asistente IT",
+    "Técnico IT Junior",
+
+    "Analista Funcional Junior",
+    "Analista de Sistemas Junior",
+    "Analista de Datos Junior",
+    "Analista Junior Tecnología",
+
+    "Data Analyst Junior",
+    "SQL Junior",
+    "Business Intelligence Junior",
+    "BI Junior",
+    "Data Entry Técnico",
+
+    "Operador de Sistemas",
+    "Operador IT",
+    "Asistente de Sistemas",
+
+    "Consultor Junior",
+    "Consultor IT Junior",
+    "Implementador Junior",
+    "ERP Junior",
+
+    "Primer empleo IT",
+    "Primer empleo tecnología",
+    "Primer empleo sistemas",
+    "Sin experiencia tecnología",
+    "Sin experiencia IT"
+  ]
+}

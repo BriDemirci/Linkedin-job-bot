@@ -1,0 +1,14 @@
+# LinkedIn Easy Apply Bot — .gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+config/profile.json
+*.log
+.DS_Store
+Thumbs.db

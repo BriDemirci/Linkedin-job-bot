@@ -1,0 +1,115 @@
+{
+  "full_name": "TU NOMBRE Y APELLIDO",
+  "first_name": "TU NOMBRE",
+  "last_name": "TU APELLIDO",
+  "email": "tu_email@ejemplo.com",
+  "phone": "+54 9 11 1234-5678",
+  "phone_country_code": "+54",
+  "location_city": "Buenos Aires",
+  "location_country": "Argentina",
+  "linkedin_url": "https://www.linkedin.com/in/tu-perfil/",
+  "headline": "Estudiante de Sistemas | Inglés Avanzado | Junior Developer & IT Support",
+
+  "career": "Licenciatura en Sistemas de la Información",
+  "career_equivalents": [
+    "Licenciatura en Sistemas de la Información",
+    "Licenciatura en Sistemas",
+    "Information Systems",
+    "Ingeniería en Informática",
+    "Ciencias de la Computación",
+    "Computer Science",
+    "Analista de Sistemas",
+    "Tecnicatura en Programación",
+    "Tecnología de la Información",
+    "Estudiantes de carreras de Sistemas o afines"
+  ],
+
+  "education": [
+    {
+      "institution": "Universidad / Instituto",
+      "degree": "Licenciatura en Sistemas / Carrera Afín",
+      "field_of_study": "Sistemas / Informática",
+      "start_year": 2022,
+      "end_year": 2027,
+      "currently_enrolled": true,
+      "gpa": null
+    }
+  ],
+
+  "certifications": [
+    "Cursos o Certificaciones relevantes"
+  ],
+
+  "current_situation": "Estudiante universitario cursando carrera de Sistemas con disponibilidad horaria para pasantías o jornadas laborales (part-time / full-time).",
+  "experience_level": "Búsqueda activa de Pasantía, Trainee o Primer Empleo en IT / Desarrollo / Soporte.",
+  "years_of_experience_general": 0,
+  "years_of_experience_by_skill": {
+    "Python": 1,
+    "JavaScript": 1,
+    "SQL": 1,
+    "Git": 1,
+    "HTML": 1,
+    "English": 3
+  },
+
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "SQL (MySQL, PostgreSQL, SQLite)",
+    "Bases de Datos Relacionales",
+    "Git / GitHub",
+    "HTML / CSS",
+    "FastAPI / APIs REST",
+    "React (Básico)",
+    "Soporte Técnico / Help Desk",
+    "Testing y Documentación",
+    "Resolución analítica de problemas"
+  ],
+
+  "languages": [
+    {"language": "Español", "level": "Nativo", "linkedin_level": "NATIVE_OR_BILINGUAL"},
+    {"language": "Inglés",  "level": "Intermedio / Avanzado", "linkedin_level": "PROFESSIONAL_WORKING"}
+  ],
+
+  "target_categories_and_roles": [
+    "Pasantías en Sistemas, Tecnología, Software o Innovación",
+    "Junior / Trainee Developer (Python, Backend, Frontend, Full Stack)",
+    "Soporte Técnico / IT Support / Help Desk / Operaciones IT",
+    "Testing / QA Manual / Quality Assurance",
+    "Analista Funcional Junior / Systems Analyst",
+    "Analista de Datos Junior / Data Analyst / SQL"
+  ],
+
+  "work_modality_preference": ["Remoto", "Híbrido", "Presencial"],
+  "work_schedule_preference": ["Part-time", "Full-time"],
+
+  "salary_expectation_ars": "A convenir",
+  "salary_expectation_usd": "A convenir",
+  "availability": "Inmediata",
+  "notice_period_days": 0,
+  "authorized_to_work_in_argentina": true,
+  "requires_visa_sponsorship": false,
+  "willing_to_relocate": false,
+
+  "learning_attitude": "Gran vocación de aprendizaje, alta adaptabilidad para capacitarse rápidamente en herramientas propietarias, procesos o nuevas tecnologías.",
+
+  "cover_letter_template": "Estimado equipo de {company},\n\nMe dirijo a ustedes con mucho entusiasmo para postularme a la posición de {job_title}. Soy estudiante de Sistemas y cuento con vocación de aprendizaje continuo.\n\nTengo conocimientos en programación, bases de datos y herramientas informáticas, con gran interés en aportar valor y desarrollarme profesionalmente.\n\nQuedo a su disposición para una entrevista.\n\nAtentamente,\n{full_name}",
+
+  "cv_summary": "Estudiante de Sistemas con sólidos fundamentos en programación, bases de datos y herramientas tecnológicas. En búsqueda activa de pasantía, rol trainee o posición junior en IT donde aplicar conocimientos y continuar aprendiendo.",
+
+  "common_screening_answers": {
+    "authorized_work": "Sí",
+    "requires_sponsorship": "No",
+    "willing_to_relocate": "No",
+    "availability": "Inmediata",
+    "graduation_year": "2027",
+    "university": "Universidad",
+    "degree": "Carrera de Sistemas o afín",
+    "english_level": "Intermedio / Avanzado",
+    "gpa": "No aplica",
+    "linkedin_profile": "https://www.linkedin.com/in/tu-perfil/",
+    "portfolio": "",
+    "github": ""
+  }
+}
